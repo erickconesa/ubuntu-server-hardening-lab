@@ -422,6 +422,13 @@ Este proyecto demuestra experiencia práctica con:
 - Validación de configuraciones
 - Documentación técnica
 
+## Documentación y evidencias
+
+Puedes consultar información adicional del laboratorio en los siguientes apartados:
+
+- [Validación técnica](docs/validation.md)
+- [Evidencias visuales](screenshots/README.md)
+
 ## Próximos pasos
 
 Este mismo servidor continuará evolucionando en nuevas fases del laboratorio.
