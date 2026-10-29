@@ -450,5 +450,29 @@ Estas nuevas capas de seguridad se apoyarán sobre la base endurecida en este pr
 
 ---
 
+---
+
+## 🚀 Continuación del proyecto — Semana 2
+
+Tras completar la instalación y el hardening inicial de Ubuntu Server, continué trabajando sobre la misma máquina virtual durante la segunda semana de prácticas en CorGon CyberSolutions.
+
+En esta nueva fase amplié la seguridad del servidor mediante:
+
+- Firewall UFW con política restrictiva.
+- Protección SSH frente a ataques de fuerza bruta con Fail2ban.
+- Configuración de registros DNS A y CNAME.
+- Instalación y configuración del servidor web Nginx.
+- Emisión de certificados SSL/TLS con Let's Encrypt.
+- Automatización de la renovación de certificados mediante Certbot.
+
+Todos los controles fueron validados mediante pruebas técnicas reales y documentados con 15 evidencias.
+
+### 🔗 Acceder al laboratorio de la Semana 2
+
+➡️ **[Semana 2 — Seguridad de red, DNS y SSL/TLS](https://github.com/erickconesa/ubuntu-network-security-dns-ssl-lab)**
+
+Este segundo laboratorio representa la continuación práctica del proceso de administración, securización y publicación de servicios sobre Ubuntu Server.
+
+
 > Este repositorio documenta un entorno personal de aprendizaje y laboratorio.  
 > La documentación pública está deliberadamente saneada y no contiene contraseñas, claves privadas SSH, tokens ni otras credenciales sensibles.
